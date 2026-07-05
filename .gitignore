@@ -1,0 +1,9 @@
+# models/ and data/ are committed on purpose: Streamlit Cloud needs the
+# trained .pkl, metrics.json and the CSV at runtime. Do NOT ignore them.
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Internal build notes, not part of the published project.
+PROJECT_SPEC.md
