@@ -4,6 +4,8 @@ A linear regression model that estimates monthly rental prices for
 properties in Santo Domingo, Dominican Republic, served through a
 Streamlit web app aimed at local real estate agents (UI in Spanish).
 
+**Live demo:** https://rental-price-estimator-sd.streamlit.app
+
 AI Portfolio project 1 of 7. Goal: master linear regression end to end
 — data, training pipeline, evaluation, and a deployable public demo —
 on a problem with a real monetization path (freemium pricing tool for
