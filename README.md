@@ -6,6 +6,11 @@ Streamlit web app aimed at local real estate agents (UI in Spanish).
 
 **Live demo:** https://rental-price-estimator-sd.streamlit.app
 
+> **Note:** this project grew into [Tasador SD](https://github.com/Criscarr26/tasador-sd) —
+> a full SaaS platform (web, mobile, API and data-collection agent) built on the
+> same domain contract. This repository remains the original portfolio demo.
+> Live product: [tasadorsd.vercel.app](https://tasadorsd.vercel.app).
+
 AI Portfolio project 1 of 7. Goal: master linear regression end to end
 — data, training pipeline, evaluation, and a deployable public demo —
 on a problem with a real monetization path (freemium pricing tool for
